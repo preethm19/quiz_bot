@@ -17,7 +17,7 @@ import logging
 
 # ====== Configuration ======
 TELEGRAM_TOKEN = '8166082829:AAG-XMCwvT-HSB_foI3Op1kDmm8J99OKJV4'
-GEMINI_API_KEY = 'AIzaSyDMfwUMyqS6U0OPN8ijHhCAHs_C6amqPRA'
+GEMINI_API_KEY = 'AIzaSyCwidl9Z4u2qrTprEYJ9thgu8FATz9MUvg'
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
