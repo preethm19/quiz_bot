@@ -13,7 +13,7 @@ from telegram.ext import (
 
 # ====== Configuration ======
 TELEGRAM_TOKEN = '8166082829:AAG-XMCwvT-HSB_foI3Op1kDmm8J99OKJV4'
-GEMINI_API_KEY = 'AIzaSyDMfwUMyqS6U0OPN8ijHhCAHs_C6amqPRA'
+GEMINI_API_KEY = 'AIzaSyALMLpVIuw3O1LopgwI23ZmV2GqOYHXALQ'
 
 genai.configure(api_key=GEMINI_API_KEY)
 last_explanation = {}
